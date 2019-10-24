@@ -1,0 +1,20 @@
+{
+	"title" : "Education",
+	"experience" : [
+		{
+			"timeperiod" : "Februari 2017 - Juli 2017",
+			"company" : "Papyrus Cafe",
+			"description" : "Setelah tamat Sekolah Menengah Pertama (SMP),\n \n Saya bekerja di Cafe Papyrus di tempatkan di bagian Weaters lalu Kasir. Kafe ini ber Alamat: Jl. Joglo Raya No. 11 B, Joglo - Kembangan, RT.7/RW.1, Joglo, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11640"
+		},
+		{
+			"timeperiod" : "Nov 2017 - Present",
+			"company" : "Geges Komputer",
+			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+		},
+		{
+			"timeperiod" : "Agustus 2019 - Oktober 2019",
+			"company" : "PT. ALEXINDO",
+			"description" : "Magang di PT. ALEXINDO (alumunium extrusion indonesia) selama 2 bulan, waktu saya magang di tempatkan di bagian Packing. PT. ALEXINDO beralamat : Kawasan Industri Mandala Pratama Permai, Jl. Raya Permai no.1 Cikampek Pusaka, Karawang, Jawa Barat." 
+		}
+	]
+}
